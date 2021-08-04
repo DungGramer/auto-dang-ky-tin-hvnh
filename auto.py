@@ -1,5 +1,4 @@
 from selenium import webdriver
-import seleniumrequests
 import time
 import xlrd
 
